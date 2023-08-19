@@ -1,0 +1,18 @@
+<resources>
+    <!-- All names for visuals -->
+    <string name="app_name">Birthday Reminder App</string>
+    <string name="birthday_spark">Birthday Spark</string>
+    <string name="image_description">Birthday Spark Logo</string>
+    <string name="add_birthday">Add a Birthday</string>
+    <string name="view_birthdays">View Birthdays</string>
+    <string name="settings">Settings</string>
+    <string name="add_button">Add Tool</string>
+    <string name="view_button">View Tool</string>
+    <string name="settings_button">Settings Tool</string>
+    <string name="return_button">Return Tool</string>
+    <string name="userInput">Enter Name</string>
+    <string name="confirm">Confirm</string>
+    <string name="date_picker">JAN 01 2023</string>
+    <string name="notifications">Notifications On</string>
+
+</resources>
